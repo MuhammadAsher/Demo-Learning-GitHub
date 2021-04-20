@@ -1,0 +1,6 @@
+framework module Pods_Demo_Git_Learning {
+  umbrella header "Pods-Demo Git Learning-umbrella.h"
+
+  export *
+  module * { export * }
+}
